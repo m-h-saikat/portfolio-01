@@ -10,7 +10,7 @@ h1 {
     color: darkorange;
 }
 
-section {
+.flex-section {
     display: flex;
     margin-bottom: 150px;
 }
